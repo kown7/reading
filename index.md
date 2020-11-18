@@ -10,9 +10,9 @@
 
 ## Stuff
 
-[How doctors broke healthcare](https://reason.com/2020/04/05/how-doctors-broke-health-care/)
-[Industrial Home Robot](https://www.kickstarter.com/projects/mirobot/)
-[Class Guide through America](https://web.archive.org/web/20111004163202/http://www.phenomenologycenter.org:80/course/status.htm)
+* [How doctors broke healthcare](https://reason.com/2020/04/05/how-doctors-broke-health-care/)
+* [Industrial Home Robot](https://www.kickstarter.com/projects/mirobot/)
+* [Class Guide through America](https://web.archive.org/web/20111004163202/http://www.phenomenologycenter.org:80/course/status.htm)
 
 ### Turchin
 
@@ -35,6 +35,11 @@
 
 * https://unsplash.com
 * https://thenounproject.com/
+
+# Books
+
+* <https://en.m.wikipedia.org/wiki/Children_of_Time_(novel)>
+* <https://en.m.wikipedia.org/wiki/Red_Rising>
 
 # Support or Contact
 
